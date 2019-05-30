@@ -1,5 +1,0 @@
-import numpy as np
-import pandas as pd
-import matpliotlib.pyplot as plt
-import scikit-learn as sklearn
-
