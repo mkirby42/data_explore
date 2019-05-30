@@ -10,7 +10,7 @@ import seaborn as sns
 import sklearn
 from sklearn.metrics import classification_report, confusion_matrix
 
-class explore:
+class Explore:
 
     """A class for exploring dataframes."""
 
